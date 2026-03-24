@@ -28,8 +28,12 @@ htmlcov/
 *.sqlite3
 
 runs/
-models/
-data/
+models/*.pth
+models/*.pt
+models/*.ckpt
+data/embeddings/
+data/ml-20m/
+data/cache/
 
 .DS_Store
 .vscode/
