@@ -1,0 +1,10 @@
+torch>=1.7.0
+numpy
+scipy
+tensorboard
+pandas
+scikit-learn
+tqdm
+torch_optimizer
+matplotlib
+streamlit
